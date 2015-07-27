@@ -1,0 +1,117 @@
+harashm@Harash-BGU-PC /MikolovOS
+$ ./run_rnnlm1.sh
+debug mode: 2
+train file: /MikolovOS/1/1_Train
+valid file: /MikolovOS/1/1_Valid
+Hidden layer size: 100
+BPTT: 4
+BPTT block: 10
+Rand seed: 1
+rnnlm file: /MikolovOS/1/rnn.h100.c100
+Starting training using file /MikolovOS/1/1_Train
+Vocab size: 1761
+Words in train file: 61590
+Iter:   0       Alpha: 0.100000    TRAIN entropy: 7.5068    Words/sec: 18772020.7   VALID entropy: 7.5110
+Iter:   1       Alpha: 0.100000    TRAIN entropy: 7.1174    Words/sec: 18864012.3   VALID entropy: 7.2488
+Iter:   2       Alpha: 0.100000    TRAIN entropy: 6.8696    Words/sec: 18168436.6   VALID entropy: 7.1125
+Iter:   3       Alpha: 0.100000    TRAIN entropy: 6.6918    Words/sec: 18418361.2   VALID entropy: 7.0296
+Iter:   4       Alpha: 0.100000    TRAIN entropy: 6.5530    Words/sec: 18680922.1   VALID entropy: 6.9764
+Iter:   5       Alpha: 0.100000    TRAIN entropy: 6.4370    Words/sec: 18596316.4   VALID entropy: 6.9444
+Iter:   6       Alpha: 0.100000    TRAIN entropy: 6.3351    Words/sec: 18680922.1   VALID entropy: 6.9309
+Iter:   7       Alpha: 0.050000    TRAIN entropy: 6.1912    Words/sec: 18506911.1   VALID entropy: 6.8701
+Iter:   8       Alpha: 0.025000    TRAIN entropy: 6.1070    Words/sec: 19608723.3   VALID entropy: 6.8359
+Iter:   9       Alpha: 0.012500    TRAIN entropy: 6.0626    Words/sec: 18680922.1   VALID entropy: 6.8173
+
+real    0m49.989s
+user    0m49.750s
+sys     0m0.171s
+test file: /MikolovOS/1/1_Test
+rnnlm file: /MikolovOS/1/rnn.h100.c100
+
+test log probability: -14719.011103
+
+PPL net: 129.802269
+
+real    0m0.353s
+user    0m0.327s
+sys     0m0.015s
+
+harashm@Harash-BGU-PC /MikolovOS
+$ ./run_rnnlm2.sh
+debug mode: 2
+train file: /MikolovOS/2/2_Train
+valid file: /MikolovOS/2/2_Valid
+class size: 100
+Hidden layer size: 100
+BPTT: 4
+BPTT block: 10
+Rand seed: 1
+rnnlm file: /MikolovOS/2/rnn.h100.c100
+Starting training using file /MikolovOS/2/2_Train
+Vocab size: 7206
+Words in train file: 438037
+Iter:   0       Alpha: 0.100000    TRAIN entropy: 8.4649    Words/sec: 16717093.5   VALID entropy: 8.3813
+Iter:   1       Alpha: 0.100000    TRAIN entropy: 7.9839    Words/sec: 16806891.0   VALID entropy: 8.1952
+Iter:   2       Alpha: 0.100000    TRAIN entropy: 7.7643    Words/sec: 16969666.4   VALID entropy: 8.1143
+Iter:   3       Alpha: 0.100000    TRAIN entropy: 7.6051    Words/sec: 16959154.4   VALID entropy: 8.0587
+Iter:   4       Alpha: 0.100000    TRAIN entropy: 7.4757    Words/sec: 16696702.9   VALID entropy: 8.0265
+Iter:   5       Alpha: 0.100000    TRAIN entropy: 7.3656    Words/sec: 16657337.3   VALID entropy: 8.0036
+Iter:   6       Alpha: 0.050000    TRAIN entropy: 7.1980    Words/sec: 16867726.9   VALID entropy: 7.9175
+Iter:   7       Alpha: 0.025000    TRAIN entropy: 7.0914    Words/sec: 16598006.9   VALID entropy: 7.8709
+Iter:   8       Alpha: 0.012500    TRAIN entropy: 7.0288    Words/sec: 16908747.0   VALID entropy: 7.8387
+Iter:   9       Alpha: 0.006250    TRAIN entropy: 6.9943    Words/sec: 16706891.9   VALID entropy: 7.8171
+
+real    5m33.014s
+user    5m32.625s
+sys     0m0.280s
+test file: /MikolovOS/2/2_Test
+rnnlm file: /MikolovOS/2/rnn.h100.c100
+
+test log probability: -120635.662151
+
+PPL net: 221.095425
+
+real    0m1.900s
+user    0m1.875s
+sys     0m0.015s
+
+harashm@Harash-BGU-PC /MikolovOS
+$ ./run_rnnlm3.sh
+debug mode: 2
+train file: /MikolovOS/3/3_Train
+valid file: /MikolovOS/3/3_Valid
+class size: 100
+Hidden layer size: 100
+BPTT: 4
+BPTT block: 10
+Rand seed: 1
+rnnlm file: /MikolovOS/3/rnn.h100.c100
+Starting training using file /MikolovOS/3/3_Train
+Vocab size: 18956
+Words in train file: 2266542
+Iter:   0       Alpha: 0.100000    TRAIN entropy: 8.5847    Words/sec: 14746250.9   VALID entropy: 8.7814
+Iter:   1       Alpha: 0.100000    TRAIN entropy: 8.1258    Words/sec: 14943812.6   VALID entropy: 8.5855
+Iter:   2       Alpha: 0.100000    TRAIN entropy: 7.9198    Words/sec: 14971451.4   VALID entropy: 8.4792
+Iter:   3       Alpha: 0.100000    TRAIN entropy: 7.7787    Words/sec: 15288757.4   VALID entropy: 8.4138
+Iter:   4       Alpha: 0.100000    TRAIN entropy: 7.6708    Words/sec: 15118148.1   VALID entropy: 8.3736
+Iter:   5       Alpha: 0.100000    TRAIN entropy: 7.5830    Words/sec: 15122889.1   VALID entropy: 8.3439
+Iter:   6       Alpha: 0.100000    TRAIN entropy: 7.5095    Words/sec: 15194158.4   VALID entropy: 8.3220
+Iter:   7       Alpha: 0.050000    TRAIN entropy: 7.3598    Words/sec: 15056984.9   VALID entropy: 8.1845
+Iter:   8       Alpha: 0.025000    TRAIN entropy: 7.2724    Words/sec: 14886981.9   VALID entropy: 8.0940
+Iter:   9       Alpha: 0.012500    TRAIN entropy: 7.2289    Words/sec: 14683486.7   VALID entropy: 8.0361
+Iter:  10       Alpha: 0.006250    TRAIN entropy: 7.2113    Words/sec: 14792832.5   VALID entropy: 8.0025
+Iter:  11       Alpha: 0.003125    TRAIN entropy: 7.2079    Words/sec: 14906857.7   VALID entropy: 7.9820
+
+real    34m50.962s
+user    34m49.703s
+sys     0m0.953s
+test file: /MikolovOS/3/3_Test
+rnnlm file: /MikolovOS/3/rnn.h100.c100
+
+test log probability: -666185.190165
+
+PPL net: 231.851816
+
+real    0m9.592s
+user    0m9.468s
+sys     0m0.108s

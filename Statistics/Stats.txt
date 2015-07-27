@@ -1,0 +1,262 @@
+NEW BEST: epoch 0 Test PPL 323.494175712                     
+NEW BEST: epoch 1 Test PPL 282.3598864                     
+NEW BEST: epoch 2 Test PPL 260.33011727                     
+NEW BEST: epoch 3 Test PPL 245.090448909                     
+NEW BEST: epoch 4 Test PPL 233.817833407                     
+NEW BEST: epoch 5 Test PPL 224.822200735                     
+NEW BEST: epoch 6 Test PPL 217.231124895                     
+NEW BEST: epoch 7 Test PPL 210.602977154                     
+NEW BEST: epoch 8 Test PPL 204.704621052                     
+NEW BEST: epoch 9 Test PPL 199.392185901                     
+NEW BEST: epoch 10 Test PPL 194.579859675                     
+NEW BEST: epoch 11 Test PPL 190.21640277                     
+NEW BEST: epoch 12 Test PPL 186.260766804                     
+NEW BEST: epoch 13 Test PPL 182.675266656                     
+NEW BEST: epoch 14 Test PPL 179.424996938                     
+NEW BEST: epoch 15 Test PPL 176.477372445                     
+NEW BEST: epoch 16 Test PPL 173.8037824                     
+NEW BEST: epoch 17 Test PPL 171.378880675                     
+NEW BEST: epoch 18 Test PPL 169.178676651                     
+NEW BEST: epoch 19 Test PPL 167.179856224                     
+NEW BEST: epoch 20 Test PPL 165.360086927                     
+NEW BEST: epoch 21 Test PPL 163.698708465                     
+NEW BEST: epoch 22 Test PPL 162.177415753                     
+NEW BEST: epoch 23 Test PPL 160.780749578                     
+NEW BEST: epoch 24 Test PPL 159.496236664                     
+NEW BEST: epoch 25 Test PPL 158.31405332                     
+NEW BEST: epoch 26 Test PPL 157.226322959                     
+NEW BEST: epoch 27 Test PPL 156.226316061                     
+NEW BEST: epoch 28 Test PPL 155.307803068                     
+NEW BEST: epoch 29 Test PPL 154.464698879                     
+NEW BEST: epoch 30 Test PPL 153.691015469                     
+NEW BEST: epoch 31 Test PPL 152.981065776                     
+NEW BEST: epoch 32 Test PPL 152.329842938                     
+NEW BEST: epoch 33 Test PPL 151.73350317                     
+NEW BEST: epoch 34 Test PPL 151.189878884                     
+NEW BEST: epoch 35 Test PPL 150.698918813                     
+NEW BEST: epoch 36 Test PPL 150.262859631                     
+NEW BEST: epoch 37 Test PPL 149.885755528                     
+NEW BEST: epoch 38 Test PPL 149.571848501                     
+NEW BEST: epoch 39 Test PPL 149.322539179                     
+NEW BEST: epoch 40 Test PPL 149.132778605                     
+NEW BEST: epoch 41 Test PPL 148.989093331                     
+NEW BEST: epoch 42 Test PPL 148.871591171                     
+NEW BEST: epoch 43 Test PPL 148.759951685                     
+NEW BEST: epoch 44 Test PPL 148.640196716                     
+NEW BEST: epoch 45 Test PPL 148.508400593                     
+NEW BEST: epoch 46 Test PPL 148.369955282                     
+NEW BEST: epoch 47 Test PPL 148.235686005                     
+NEW BEST: epoch 48 Test PPL 148.117174638                     
+NEW BEST: epoch 49 Test PPL 148.02332873                     
+NEW BEST: epoch 50 Test PPL 147.959052852                     
+NEW BEST: epoch 51 Test PPL 147.925545446                     
+NEW BEST: epoch 52 Test PPL 147.921097599                     
+[learning] epoch 53 >> 99.93% completed in 82.93 (sec) <<
+[learning] epoch 54 >> 99.93% completed in 82.72 (sec) <<
+[learning] epoch 55 >> 99.93% completed in 82.96 (sec) <<
+[learning] epoch 56 >> 99.93% completed in 82.94 (sec) <<
+[learning] epoch 57 >> 99.93% completed in 82.96 (sec) <<
+Reducling Learning Rate to: 1.0
+[learning] epoch 58 >> 99.93% completed in 83.09 (sec) <<
+Reducling Learning Rate to: 0.5
+[learning] epoch 59 >> 99.93% completed in 82.56 (sec) <<
+Reducling Learning Rate to: 0.25
+[learning] epoch 60 >> 99.93% completed in 83.61 (sec) <<
+Reducling Learning Rate to: 0.125
+[learning] epoch 61 >> 99.93% completed in 82.96 (sec) <<
+Reducling Learning Rate to: 0.0625
+[learning] epoch 62 >> 99.93% completed in 82.70 (sec) <<
+Reducling Learning Rate to: 0.03125
+[learning] epoch 63 >> 99.93% completed in 82.67 (sec) <<
+Reducling Learning Rate to: 0.015625
+[learning] epoch 64 >> 99.93% completed in 83.09 (sec) <<
+Reducling Learning Rate to: 0.0078125
+[learning] epoch 65 >> 99.93% completed in 83.15 (sec) <<
+Reducling Learning Rate to: 0.00390625
+[learning] epoch 66 >> 99.93% completed in 83.22 (sec) <<
+Reducling Learning Rate to: 0.001953125
+[learning] epoch 67 >> 99.93% completed in 83.07 (sec) <<
+Reducling Learning Rate to: 0.0009765625
+[learning] epoch 68 >> 99.93% completed in 83.21 (sec) <<
+Reducling Learning Rate to: 0.00048828125
+[learning] epoch 69 >> 99.93% completed in 82.97 (sec) <<
+Reducling Learning Rate to: 0.000244140625
+[learning] epoch 70 >> 99.93% completed in 84.13 (sec) <<
+Reducling Learning Rate to: 0.0001220703125
+[learning] epoch 71 >> 99.93% completed in 83.26 (sec) <<
+Reducling Learning Rate to: 6.103515625e-05
+[learning] epoch 72 >> 99.93% completed in 82.73 (sec) <<
+Reducling Learning Rate to: 3.0517578125e-05
+[learning] epoch 73 >> 99.93% completed in 82.78 (sec) <<
+Reducling Learning Rate to: 1.52587890625e-05
+[learning] epoch 74 >> 99.93% completed in 82.98 (sec) <<
+Reducling Learning Rate to: 7.62939453125e-06
+BEST RESULT: epoch 52 Validation PPL 147.921097599
+=====================================================
+NEW BEST: epoch 0 Test PPL 143.916738147                     
+NEW BEST: epoch 1 Test PPL 130.378822544                     
+NEW BEST: epoch 2 Test PPL 122.033372901                     
+NEW BEST: epoch 3 Test PPL 115.663957104                     
+NEW BEST: epoch 4 Test PPL 110.566166551                     
+NEW BEST: epoch 5 Test PPL 106.267746443                     
+NEW BEST: epoch 6 Test PPL 102.604760737                     
+NEW BEST: epoch 7 Test PPL 99.4735091708                     
+NEW BEST: epoch 8 Test PPL 96.7679809519                     
+NEW BEST: epoch 9 Test PPL 94.4334528332                     
+NEW BEST: epoch 10 Test PPL 92.4201503823                     
+NEW BEST: epoch 11 Test PPL 90.6645721728                     
+NEW BEST: epoch 12 Test PPL 89.1142580625                     
+NEW BEST: epoch 13 Test PPL 87.7326555332                     
+NEW BEST: epoch 14 Test PPL 86.4939317262                     
+NEW BEST: epoch 15 Test PPL 85.3786615081                     
+NEW BEST: epoch 16 Test PPL 84.3712302788                     
+NEW BEST: epoch 17 Test PPL 83.4587144431                     
+NEW BEST: epoch 18 Test PPL 82.6306357543                     
+NEW BEST: epoch 19 Test PPL 81.8787753944                     
+NEW BEST: epoch 20 Test PPL 81.1967454249                     
+NEW BEST: epoch 21 Test PPL 80.5794481536                     
+NEW BEST: epoch 22 Test PPL 80.0226687154                     
+NEW BEST: epoch 23 Test PPL 79.5228992471                     
+NEW BEST: epoch 24 Test PPL 79.0772952229                     
+NEW BEST: epoch 25 Test PPL 78.6836126853                     
+NEW BEST: epoch 26 Test PPL 78.3400419448                     
+NEW BEST: epoch 27 Test PPL 78.044939486                     
+NEW BEST: epoch 28 Test PPL 77.7965252543                     
+NEW BEST: epoch 29 Test PPL 77.5926479728                     
+NEW BEST: epoch 30 Test PPL 77.430702642                     
+NEW BEST: epoch 31 Test PPL 77.3077076835                     
+NEW BEST: epoch 32 Test PPL 77.2204725376                     
+NEW BEST: epoch 33 Test PPL 77.165770316                     
+NEW BEST: epoch 34 Test PPL 77.1404637007                     
+[learning] epoch 35 >> 99.93% completed in 81.92 (sec) <<
+[learning] epoch 36 >> 99.93% completed in 81.29 (sec) <<
+[learning] epoch 37 >> 99.93% completed in 86.76 (sec) <<
+[learning] epoch 38 >> 99.93% completed in 84.81 (sec) <<
+[learning] epoch 39 >> 99.93% completed in 98.01 (sec) <<
+Reducling Learning Rate to: 1.0
+[learning] epoch 40 >> 99.93% completed in 85.97 (sec) <<
+Reducling Learning Rate to: 0.5
+[learning] epoch 41 >> 99.93% completed in 88.35 (sec) <<
+Reducling Learning Rate to: 0.25
+[learning] epoch 42 >> 99.93% completed in 79.33 (sec) <<
+Reducling Learning Rate to: 0.125
+[learning] epoch 43 >> 99.93% completed in 86.00 (sec) <<
+Reducling Learning Rate to: 0.0625
+[learning] epoch 44 >> 99.93% completed in 79.23 (sec) <<
+Reducling Learning Rate to: 0.03125
+[learning] epoch 45 >> 99.93% completed in 80.09 (sec) <<
+Reducling Learning Rate to: 0.015625
+[learning] epoch 46 >> 99.93% completed in 83.64 (sec) <<
+Reducling Learning Rate to: 0.0078125
+[learning] epoch 47 >> 99.93% completed in 79.08 (sec) <<
+Reducling Learning Rate to: 0.00390625
+[learning] epoch 48 >> 99.93% completed in 79.10 (sec) <<
+Reducling Learning Rate to: 0.001953125
+[learning] epoch 49 >> 99.93% completed in 83.57 (sec) <<
+Reducling Learning Rate to: 0.0009765625
+[learning] epoch 50 >> 99.93% completed in 84.45 (sec) <<
+Reducling Learning Rate to: 0.00048828125
+[learning] epoch 51 >> 99.93% completed in 84.32 (sec) <<
+Reducling Learning Rate to: 0.000244140625
+[learning] epoch 52 >> 99.93% completed in 83.85 (sec) <<
+Reducling Learning Rate to: 0.0001220703125
+[learning] epoch 53 >> 99.93% completed in 80.27 (sec) <<
+Reducling Learning Rate to: 6.103515625e-05
+[learning] epoch 54 >> 99.93% completed in 84.75 (sec) <<
+Reducling Learning Rate to: 3.0517578125e-05
+[learning] epoch 55 >> 99.93% completed in 78.88 (sec) <<
+Reducling Learning Rate to: 1.52587890625e-05
+[learning] epoch 56 >> 99.93% completed in 78.38 (sec) <<
+Reducling Learning Rate to: 7.62939453125e-06
+BEST RESULT: epoch 34 Test PPL 77.1404637007
+============================================================================ 2 ===================================================================
+NEW BEST: epoch 0 Test PPL 345.325253857
+NEW BEST: epoch 1 Test PPL 290.597288061
+NEW BEST: epoch 2 Test PPL 264.02967872
+NEW BEST: epoch 3 Test PPL 247.663214936
+NEW BEST: epoch 4 Test PPL 236.479093806
+NEW BEST: epoch 5 Test PPL 227.965953328
+NEW BEST: epoch 6 Test PPL 221.013703908
+NEW BEST: epoch 7 Test PPL 215.085131472
+NEW BEST: epoch 8 Test PPL 209.88946604
+NEW BEST: epoch 9 Test PPL 205.285163913
+NEW BEST: epoch 10 Test PPL 201.216149031
+NEW BEST: epoch 11 Test PPL 197.632565814
+NEW BEST: epoch 12 Test PPL 194.47038188
+NEW BEST: epoch 13 Test PPL 191.668305021
+NEW BEST: epoch 14 Test PPL 189.175852201
+NEW BEST: epoch 15 Test PPL 186.951117534
+NEW BEST: epoch 16 Test PPL 184.957795278
+NEW BEST: epoch 17 Test PPL 183.165224402
+NEW BEST: epoch 18 Test PPL 181.546731744
+NEW BEST: epoch 19 Test PPL 180.078812385
+NEW BEST: epoch 20 Test PPL 178.743960205
+NEW BEST: epoch 21 Test PPL 177.528756679
+NEW BEST: epoch 22 Test PPL 176.422608578
+NEW BEST: epoch 23 Test PPL 175.416710554
+NEW BEST: epoch 24 Test PPL 174.503314065
+NEW BEST: epoch 25 Test PPL 173.675464123
+NEW BEST: epoch 26 Test PPL 172.926954672
+NEW BEST: epoch 27 Test PPL 172.252042424
+NEW BEST: epoch 28 Test PPL 171.645220199
+NEW BEST: epoch 29 Test PPL 171.101200948
+NEW BEST: epoch 30 Test PPL 170.614922746
+NEW BEST: epoch 31 Test PPL 170.181544159
+NEW BEST: epoch 32 Test PPL 169.796443504
+NEW BEST: epoch 33 Test PPL 169.455231298
+NEW BEST: epoch 34 Test PPL 169.153781599
+NEW BEST: epoch 35 Test PPL 168.888277527
+NEW BEST: epoch 36 Test PPL 168.655250184
+NEW BEST: epoch 37 Test PPL 168.45159123
+NEW BEST: epoch 38 Test PPL 168.274536466
+NEW BEST: epoch 39 Test PPL 168.121633242
+NEW BEST: epoch 40 Test PPL 167.990708934
+NEW BEST: epoch 41 Test PPL 167.879848516
+NEW BEST: epoch 42 Test PPL 167.787376583
+NEW BEST: epoch 43 Test PPL 167.711835958
+NEW BEST: epoch 44 Test PPL 167.651959305
+NEW BEST: epoch 45 Test PPL 167.606636661
+NEW BEST: epoch 46 Test PPL 167.574887682
+NEW BEST: epoch 47 Test PPL 167.555847873
+NEW BEST: epoch 48 Test PPL 167.548768653
+[learning] epoch 49 >> 100.00% completed in 1780.83 (sec) <<
+[learning] epoch 50 >> 100.00% completed in 1631.56 (sec) <<
+[learning] epoch 51 >> 100.00% completed in 1614.30 (sec) <<
+[learning] epoch 52 >> 100.00% completed in 1608.52 (sec) <<
+[learning] epoch 53 >> 100.00% completed in 1648.77 (sec) <<
+Reducling Learning Rate to: 1.0
+[learning] epoch 54 >> 100.00% completed in 1614.42 (sec) <<
+Reducling Learning Rate to: 0.5
+[learning] epoch 55 >> 100.00% completed in 1598.40 (sec) <<
+Reducling Learning Rate to: 0.25
+[learning] epoch 56 >> 100.00% completed in 1612.85 (sec) <<
+Reducling Learning Rate to: 0.125
+[learning] epoch 57 >> 100.00% completed in 1615.39 (sec) <<
+Reducling Learning Rate to: 0.0625
+[learning] epoch 58 >> 100.00% completed in 1616.97 (sec) <<
+Reducling Learning Rate to: 0.03125
+[learning] epoch 59 >> 100.00% completed in 1604.73 (sec) <<
+Reducling Learning Rate to: 0.015625
+[learning] epoch 60 >> 100.00% completed in 1615.77 (sec) <<
+Reducling Learning Rate to: 0.0078125
+[learning] epoch 61 >> 100.00% completed in 1615.32 (sec) <<
+Reducling Learning Rate to: 0.00390625
+[learning] epoch 62 >> 100.00% completed in 1617.04 (sec) <<
+Reducling Learning Rate to: 0.001953125
+[learning] epoch 63 >> 100.00% completed in 1631.36 (sec) <<
+Reducling Learning Rate to: 0.0009765625
+[learning] epoch 64 >> 100.00% completed in 1616.28 (sec) <<
+Reducling Learning Rate to: 0.00048828125
+[learning] epoch 65 >> 100.00% completed in 1613.44 (sec) <<
+Reducling Learning Rate to: 0.000244140625
+[learning] epoch 66 >> 100.00% completed in 1612.53 (sec) <<
+Reducling Learning Rate to: 0.0001220703125
+[learning] epoch 67 >> 100.00% completed in 1613.98 (sec) <<
+Reducling Learning Rate to: 6.103515625e-05
+[learning] epoch 68 >> 100.00% completed in 1614.86 (sec) <<
+Reducling Learning Rate to: 3.0517578125e-05
+[learning] epoch 69 >> 100.00% completed in 1612.75 (sec) <<
+Reducling Learning Rate to: 1.52587890625e-05
+[learning] epoch 70 >> 100.00% completed in 1616.83 (sec) <<
+Reducling Learning Rate to: 7.62939453125e-06
+BEST RESULT: epoch 48 Test PPL 167.548768653
